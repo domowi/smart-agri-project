@@ -1,0 +1,511 @@
+C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\src\ExcelToCSVProcessor.groovy
+The file C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\27-3-2018.xls has 0 bytes
+Files:  daily-wholesale-commodity-prices-1st-july-2011.xls
+Files:  monthly-average-prices-for-june-2011.xls
+Files:  27090111.xls
+Files:  cig-summary-sheet.xls
+Files:  18102011.xls
+Files:  241020111.xls
+Files:  07110111.xls
+Files:  09120111.xls
+Files:  23110112.xls
+Files:  wk-ending-0212011.xls
+Files:  111012.xls
+Files:  2712011.xls
+Files:  31012.xls
+Files:  wk-ending-131012.xls
+Files:  2632012.xls
+Files:  1742012.xls
+Files:  copy-of-wk-ending-3032012.xls
+Files:  1452012.xls
+Files:  wk-ending-2742012.xls
+Files:  1462012.xls
+Files:  1072012.xls
+Files:  1172012.xls
+Files:  267012.xls
+Files:  372012.xls  
+Files:  672012-1.xls
+Files:  392012.xls
+Files:  492012.xls
+Files:  27-3-2018.xls
+Files:  9-3-2018.xls
+Files:  04-04-2018.xls
+Files:  24-04-2018.xls
+Files:  26-04-2018.xls
+Files:  11-06-2018.xls
+Files:  13-06-2018.xls
+Files:  22-06-2018.xls
+Files:  14-08-2018.xls
+Files:  Copy-of-22-10-2018.xls
+
+Process finished with exit code 0
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Files:  daily-wholesale-commodity-prices-1st-july-2011.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\07
+Files:  monthly-average-prices-for-june-2011.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\07
+Files:  27090111.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09
+Files:  cig-summary-sheet.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09
+Files:  18102011.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\10
+Files:  241020111.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\10
+Files:  07110111.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\11
+Files:  09120111.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12
+Files:  23110112.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12
+Files:  wk-ending-0212011.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12
+Files:  111012.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01
+Files:  2712011.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01
+Files:  31012.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01
+Files:  wk-ending-131012.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01
+Files:  2632012.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\03
+Files:  1742012.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\04
+Files:  copy-of-wk-ending-3032012.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\04
+Files:  1452012.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05
+Files:  wk-ending-2742012.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05
+Files:  1462012.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\06
+Files:  1072012.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07
+Files:  1172012.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07
+Files:  267012.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07
+Files:  372012.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07
+Files:  672012-1.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07
+Files:  392012.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\09
+Files:  492012.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\09
+Files:  27-3-2018.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\03
+Files:  9-3-2018.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\03
+Files:  04-04-2018.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\04
+Files:  24-04-2018.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\04
+Files:  26-04-2018.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\04
+Files:  11-06-2018.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07
+Files:  13-06-2018.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07
+Files:  22-06-2018.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07
+Files:  14-08-2018.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\08
+Files:  Copy-of-22-10-2018.xls ::: C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\10
+
+Process finished with exit code 0
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+"C:\Program Files\Java\jdk1.8.0_171\bin\java.exe" "-Dtools.jar=C:\Program Files\Java\jdk1.8.0_171\lib\tools.jar" "-Dgroovy.home=C:\Program Files (x86)\Groovy\Groovy-3.0.0" "-Dgroovy.starter.conf=C:\Program Files (x86)\Groovy\Groovy-3.0.0\conf\groovy-starter.conf" -Dhttp.proxyHost=10.1.0.1 -Dhttp.proxyPort=8383 -Dhttps.proxyHost=10.1.0.1 -Dhttps.proxyPort=8383 "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\src\ExcelToCSVProcessor.groovy
+The file C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\27-3-2018.xls has 0 bytes
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\03
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\03\mou-signing-02.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\05
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\06
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\06\daily-wholesale-coomodity-prices-for-28th-june-2011.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\06\market-prices-23-rd-june-20111-817x1024.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\06\weekly-17062011-1024x740.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\06\weekly-170620116-300x216.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\06\weekly-170620116.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\06\weekly-170620118-300x216.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\06\weekly-240620114.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\06\weekly-240620115-150x150.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\07
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\07\central-region-964x1024.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\07\daily-wholesale-commodity-prices-1st-july-2011.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\07\daily-wholesale-commodity-prices-4th-july-2011.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\07\daily-wholesale-commodity-prices-for-5th-july-2011-286x300.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\07\daily-wholesale-comodity-prices-for-12th-july-2011-150x150.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\07\daily-wholesale-comodity-prices-for-20th-july-2011-925x1024.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\07\daily-wholesale-comodity-prices-for-20th-july-2011.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\07\daily-wholesale-comodity-prices-for-25th-july-2011-150x150.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\07\daily-wholesale-comodity-prices-for-25th-july-2011.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\07\daily-wholesale-comodity-prices-for-27th-july-2011-150x150.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\07\monthly-average-prices-for-june-2011.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\08
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\08\analysis-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\08\daily-wholesale-commodity-prices-for-19th-august-2011.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\08\daily-wholesale-commodity-prices-for-2nd-august-2011-1024x1024.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\08\daily-wholesale-commodity-prices-for-5th-august-2011-300x277.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\08\daily-wholesale-comodity-prices-for-1st-august-2011-1024x952.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\08\grain-amaranth-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\08\grain-amaranth2-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\08\grain-amaranth2.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\08\grain-amaranth21-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\08\grain-amaranth3-300x298.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\08\grain-amaranth8-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\08\home-page23-300x70.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\27090111.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\average-commodity-prices-for-week-ending-16th-september-2011-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\average-commodity-prices-for-week-ending-26th-august-2011-1024x785.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\average-commodity-prices-for-week-ending-2nd-september-2011-300x206.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\central-kenya-ask2-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\central-kenya-ask5678910-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\central-kenya-ask5678910.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\central-kenya-ask567891011121314151617png222324252627282930-300x242.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\cig-summary-sheet.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\daily-wholesale-commodity-prices-for-14th-september-2011-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\daily-wholesale-commodity-prices-for-20th-september-2011-1024x914.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\daily-wholesale-commodity-prices-for-27th-september-2011-1024x1010.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\daily-wholesale-commodity-prices-for-27th-september-2011-300x296.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\daily-wholesale-commodity-prices-for-5th-september-2011-300x266.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\daily-wholesale-commodity-prices-for-8th-september-20111-985x1024.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\09\mombasa-nafis-300x225.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\10
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\10\18102011.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\10\241020111.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\10\daily-wholesale-commodity-prices-for-19th-october-2011-984x1024.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\10\daily-wholesale-commodity-prices-for-21st-october-2011.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\10\daily-wholesale-commodity-prices-for-26th-october-2011-276x300.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\10\daily-wholesale-commodity-prices-for-7th-october-2011-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\10\postcard-two-1024x704.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\10\postcard-two-300x206.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\11
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\11\07110111.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\11\average-commodity-prices-for-week-ending-11th-november-2011-1024x792.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\11\average-commodity-prices-for-week-ending-11th-november-2011-300x232.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\11\curly-kales-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\11\curly-kales.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\11\daily-wholesale-commodity-prices-for-10th-november-2011-258x300.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\11\daily-wholesale-commodity-prices-for-14th-november-2011.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\11\daily-wholesale-commodity-prices-for-17th-november-2011-972x1024.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\11\daily-wholesale-commodity-prices-for-22nd-november-2011-300x288.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\11\thousand-headed2.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\09120111.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\23110112.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\average-commodity-prices-for-week-ending-25th-november-2011-1023x634.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\brown-spot1-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\cross-section-of-a-completed-fish-pond13-300x162.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\daily-wholesale-commodity-prices-for-14th-december-2011-292x300.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\daily-wholesale-commodity-prices-for-23rd-november-2011.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\daily-wholesale-commodity-prices-for-25th-november-2011.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\daily-wholesale-commodity-prices-for-5th-december-2011-300x266.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\fertilizer-application.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\gm-analysis.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\guide-for-gender-mainstreaming-216x300.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\hiv-and-aids-study-book-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\nesting-box.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\passion3-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\passion9.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\pests-and-diseases.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\pond-construction-300x136.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\pond-construction123456png78910.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\pond-mgt-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\red-spider-mites-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\stocking-fish-pond-300x230.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\thrips-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\tilapia-pic1-300x152.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2011\12\wk-ending-0212011.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\111012.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\2712011.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\31012.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\average-commodity-prices-for-week-ending-20th-january-2012-1024x814.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\daily-wholesale-commodity-prices-for-13th-january-2012-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\daily-wholesale-commodity-prices-for-20th-january-2012-265x300.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\daily-wholesale-commodity-prices-for-26th-january-2012-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\daily-wholesale-commodity-prices-for-28th-december-2011-1024x1011.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\fao1-300x217.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\fern.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\green-house-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\green-house9.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\pajaro.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\strawberry-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\strawberry-300x299.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\strawberry-diaseases.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\strawberry-diaseases6-300x259.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\01\wk-ending-131012.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\02
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\02\average-commodity-prices-for-week-ending-3rd-february-2012-1024x833.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\02\daily-wholesale-commodity-prices-for-16th-february-2012-1024x924.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\02\daily-wholesale-commodity-prices-for-20th-february-2012-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\02\daily-wholesale-commodity-prices-for-22nd-february-2012-300x260.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\02\daily-wholesale-commodity-prices-for-2nd-february-2012.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\02\daily-wholesale-commodity-prices-for-31th-january-2012-281x300.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\02\daily-wholesale-commodity-prices-for-6th-february-2012-1024x846.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\02\daily-wholesale-commodity-prices-for-9th-february-2012-1024x1020.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\02\nalep-makueni1-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\03
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\03\2632012.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\03\average-commodity-prices-for-week-ending-16th-march-2012-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\03\average-commodity-prices-for-week-ending-16th-march-2012-300x287.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\03\average-commodity-prices-for-week-ending-24th-february-2012-1024x734.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\03\average-commodity-prices-for-week-ending-24th-february-2012-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\03\daily-wholesale-commodity-prices-for-16th-march-2012-1024x1007.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\03\daily-wholesale-commodity-prices-for-27th-february-2012-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\03\daily-wholesale-commodity-prices-for-30th-march-2012-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\03\wholesale-commodity-prices-for-22nd-march-2012.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\04
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\04\1742012.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\04\average-commodity-prices-for-week-ending-5th-april-2012.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\04\copy-of-wk-ending-3032012.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05\1452012.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05\daily-wholesale-commodity-prices-for-18th-may-2012-1024x908.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05\daily-wholesale-commodity-prices-for-26th-april-2012-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05\daily-wholesale-commodity-prices-for-27th-april-2012-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05\daily-wholesale-commodity-prices-for-31st-may-2012-300x284.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05\daily-wholesale-commodity-prices-for-3th-may-2012-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05\daily-wholesale-commodity-prices-for-3th-may-2012.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05\daily-wholesale-commodity-prices-for-7th-may-2012-1024x811.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05\daily-wholesale-commodity-prices-for-9th-may-2012-300x269.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05\doc2-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05\mushroom-picture-1024x768.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05\toggenburg-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\05\wk-ending-2742012.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\06
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\06\1462012.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\06\average-commodity-prices-for-week-ending-31st-may-2012.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\06\mln-disease.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\06\training-manual-for-upload2-578x1024.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07\1072012.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07\1172012.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07\267012.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07\372012.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07\672012-1.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07\daily-waether-info12.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07\daily-weather-info21-247x300.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07\daily-wholesale-commodity-prices-for-19th-july-2012-300x280.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07\daily-wholesale-commodity-prices-for-26th-july-2012-1024x841.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\07\meteorological.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\08
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\09
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\09\392012.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\09\492012.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\09\daily-wholesale-commodity-prices-for-22nd-august-2012-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\09\daily-wholesale-commodity-prices-for-29th-august-2012-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\09\daily-wholesale-commodity-prices-for-29th-august-2012-836x1024.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\09\daily-wholesale-commodity-prices-for-30th-august-2012-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\09\daily-wholesale-commodity-prices-for-31st-july-2012-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\09\daily-wholesale-commodity-prices-for-6th-august-2012.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\10
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\11
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2012\12
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2013
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2013\01
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2013\02
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2013\03
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2013\04
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2013\05
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2013\06
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2013\07
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2013\07\pressman-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2013\07\pressman.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2013\08
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2013\10
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2013\11
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2013\12
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\01
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\01\untitled.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\02
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\03
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\04
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\05
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\05\for-nafis-post-300x223.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\05\weather-excell-sheet-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\06
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\07
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\08
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\09
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\10
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\11
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\12
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\12\ic-photo-10-300x76.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\12\ic-photo-19.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2014\12\ic-photo-9-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2015
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2015\01
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2015\02
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2015\03
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2015\04
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2015\05
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2015\06
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2015\07
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2015\07\dairy-300x200.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2015\08
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2015\09
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2015\10
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2015\11
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2015\11\hydrophonic-pic11.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2015\12
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\01
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\01\13012016-1024x819.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\01\for-upload-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\01\upload-for-nafis-1024x788.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\02
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\02\2022016-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\03
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\03\09032016-300x250.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\03\16032016.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\03\nafis-website_151-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\03\nafis-website_17.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\03\nafis-website_4.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\03\nafis-website_5-300x233.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\04
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\04\04042016-1024x861.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\04\07042016.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\05
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\05\04052016-1024x888.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\05\09052016.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\05\11052016-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\05\18052016.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\05\19052016-1024x836.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\06
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\06\10062016-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\06\20062016-1024x975.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\06\20062016.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\07
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\08
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\08\24082016.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\08\26082016-294x300.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\08\web-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\09
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\09\27092016-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\10
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\10\baseline-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\10\baseline_3-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\10\baseline_3.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\11
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\11\02112016.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\11\04112016-1024x858.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\12
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\12\07122016-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\12\09122016-1024x943.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\12\13122016.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\12\22122016-1024x869.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2016\12\22122016.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\01
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\01\12012017-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\01\12012017-300x250.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\01\18012017-300x291.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\01\19012017-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\01\31012017-300x273.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\02
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\02\01022017-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\03
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\03\08032017.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\03\15032017-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\04
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\04\19042017.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\05
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\05\240520171.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\06
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\06\cropped-tempsplash2-270x270.png
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\07
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\07\19.07.2017-768x736.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\07\24.07.2017-768x861.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\07\4.07.2017-768x794.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\08
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\08\02.08.2017-768x767.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\08\02.08.2017.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\08\14.08.2017-971x1024.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\08\28.08.2017-768x734.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\08\29.08.2017-977x1024.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\09
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\09\01.09.2017-1024x989.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\09\05.09.2017.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\09\07.09.2017-1024x904.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\09\30.08.2017-300x292.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\09\30.08.2017.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\09\IMG_20170530_115142-1024x575.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\10
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\10\12.10.2017-768x673.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\10\17.10.2017.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\10\5.10.2017-1.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\10\5.10.2017-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\10\9.10.2017-290x300.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\10\9.10.2017-990x1024.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\11
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\11\16.11.2017-768x691.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\11\23.11.2017.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\12
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\12\6.12.2017-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2017\12\7.12.2017.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\01
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\01\10.01.2018-768x662.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\01\16.01.2018-300x273.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\01\19.01.2018-300x269.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\01\9.01.2018-768x779.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\01\Pictures_2-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\02
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\02\22.02.2018-300x246.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\02\27.02.2018-300x239.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\02\7.02.2018-768x579.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\03
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\03\05.03.2018-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\03\08.03.2018-1024x782.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\03\15.03.2018-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\03\21.03.2018-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\03\27-3-2018.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\03\9-3-2018.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\04
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\04\04-04-2018.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\04\11.04.2018-768x683.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\04\16.04.2018-1024x806.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\04\24-04-2018.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\04\26-04-2018.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\04\26.04.2018-1024x826.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\04\26.04.2018-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\04\4.04.2018.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\04\5.04.2018-300x244.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\05
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\05\11.05.2018-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\05\24.05.2018.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\06
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\02.07.2018-300x242.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\02.07.2018.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\03.07.2018-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\05.06.2018-300x200.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\07.07.2018-1-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\08.07.2018-1-1024x683.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\08.07.2018-1-300x200.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\08.07.2018-768x512.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\08.07.2018.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\09.07.2018-300x229.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\11-06-2018.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\11.06.2018-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\11.07.2018.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\12.06.2018-1024x975.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\12.06.2018-300x286.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\13-06-2018.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\13.07.2018.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\18.06.2018-768x658.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\19.07.2018.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\20.06.2018-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\22-06-2018.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\24.07.2018-1024x951.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\24.07.2018.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\07\6.07.2018-1024x1018.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\08
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\08\03.08.2018-1024x796.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\08\14-08-2018.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\08\24.08.2018-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\08\28.08.2018-1024x849.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\09
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\09\11.09.2018-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\09\11.09.2018.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\09\17.09.2018-300x244.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\09\17.09.2018.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\09\18.09.2018-300x230.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\09\20.09.2018.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\09\21.09.2018-1024x821.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\09\28.09.2018.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\09\ASDSP-award.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\10
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\10\01.10.2018-1024x778.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\10\Copy-of-22-10-2018.xls
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\11
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\11\12.11.2018-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\11\15.11.2018-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2018\11\8.11.2018-150x150.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2019
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2019\01
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2019\01\18.01.2019-300x209.jpg
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2019\03
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2019\04
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2019\05
+File Path:  C:\Users\odhiambod\SmartAgri\ExcelToCsvGroovy\xls\uploads\2019\05\14.05.2019-768x607.jpg
+
+Process finished with exit code 0

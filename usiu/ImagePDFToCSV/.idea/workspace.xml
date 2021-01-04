@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44212873-dc2c-41d4-a5ad-c13c49b33551" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/ExcelCSV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/activation-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/commons-codec-1.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/commons-collections4-4.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/commons-compress-1.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/commons-math3-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/curvesapi-1.06.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/jaxb-core-2.3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/jaxb-impl-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/poi-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/poi-examples-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/poi-excelant-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/poi-ooxml-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/poi-ooxml-schemas-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/poi-scratchpad-4.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/lib/xmlbeans-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelCSV/src/net/codejava/excel/SimpleExcelReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCSVExample/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCSVExample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCSVExample/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCSVExample/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCSVExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCSVExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCSVExample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCSVExample/ExcelToCSVExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCSVExample/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCSVExample/src/main/java/net/codejava/excel/SimpleExcelReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCSVExample/src/main/java/net/codejava/excel/SimpleExcelReaderExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCSVExample/src/main/java/net/codejava/excel/SimpleExcelReaderExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCSVExample/src/main/java/net/codejava/excel/SimpleExcelReaderExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/ExcelToCsvGroovy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/src/CodeCommodityMapping.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/src/CommodityRowMapping.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/src/ExcelToCSVProcessor.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/src/ExcelToCSVProcessor2.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/src/ExcelToCSVProcessor3.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/src/ExcelToCSVProcessor4.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/src/ExcelToCSVProcessor_5.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/src/ExcelToCSVProcessor_6.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/src/ExcelToCSVProcessor_7_Final.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/src/ExcelToCSVProcessor_8_Final_20200108.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/src/ExcelToCSVProcessor_9_Final_20200108.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelToCsvGroovy/src/ExecuteScriptExcelToCsv.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImagePDFToCSV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eng.traineddata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amudabadmus/awfa/AppImageTextExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tessdata/eng.traineddata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFileUploadDemo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFileUploadDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/SmartagriApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/fileupload/controller/FileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/fileupload/exception/FileStorageException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/fileupload/exception/MyFileNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/fileupload/payload/UploadFileResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/fileupload/property/FileStorageProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/fileupload/property/URLProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/fileupload/service/FileStorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/fileupload/service/ModelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/model/Prices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgri/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgri/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgri/src/app/layout/bs-component/components/date-picker/date-picker.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgri/src/app/layout/bs-component/components/date-picker/date-picker.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgri/src/app/layout/components/sidebar/sidebar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgri/src/app/layout/components/sidebar/sidebar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgri/src/app/layout/dashboard/dashboard.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgri/src/app/layout/dashboard/dashboard.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgri/src/app/layout/dashboard/dashboard.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgri/src/app/layout/dashboard/dashboard.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgri/src/app/layout/form/form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgri/src/app/layout/form/form.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgri/src/app/layout/form/form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgri/src/app/layout/form/form.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgri/src/app/layout/upload/upload.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgri/src/app/layout/upload/upload.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgri/src/app/models/futurepredictions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgri/src/app/models/futurepredictions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgri/src/app/shared/services/futurepredictions.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgri/src/app/shared/services/futurepredictions.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgri/src/app/shared/services/predictions.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgri/src/app/shared/services/predictions.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgri/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgri/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgri/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgri/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriFileUpload/node-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgriFileUpload/node-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriFileUpload/node-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgriFileUpload/node-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/.idea/SmartAgriML.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/Nairobi_Final_Sukuma_Wiki.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/Nairobi_Predict_Final_Sukuma_Wiki.csv.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/Nairobi_Sukuma_Wiki_Data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/SampleFlaskAPI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/SampleFlaskAPI.py.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/SmartFlaskModelAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgriML/SmartFlaskModelAPI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/SmartFlaskModelAPI_20180726.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/SmartFlaskModelAPI_bkp_20180719.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/bkp/Sukuma_Wiki_Counties_Cumulative.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/bkp/Sukuma_Wiki_Cumulative_Predict.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/bkp/Sukuma_Wiki_Cumulative_Predict_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir1/common_dir/dir1/common_file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir1/common_dir/dir1/file_in_dir1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir1/common_dir/dir1/file_only_in_dir1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir1/common_dir/dir1/not_the_same" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir1/common_dir/dir2/common_file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir1/common_dir/dir2/file_only_in_dir2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir1/common_dir/dir2/not_the_same" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir1/common_file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir1/file_in_dir1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir1/file_only_in_dir1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir1/not_the_same" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir2/common_dir/dir1/common_file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir2/common_dir/dir1/file_in_dir1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir2/common_dir/dir1/file_only_in_dir1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir2/common_dir/dir1/not_the_same" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir2/common_dir/dir2/common_file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir2/common_dir/dir2/file_only_in_dir2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir2/common_dir/dir2/not_the_same" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir2/common_file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir2/file_only_in_dir2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/example/dir2/not_the_same" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/file_compare.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/file_select.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/filecmp_cmp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/file_tests/filecmp_mkexamples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/flaskAPI - Copy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/flaskAPI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/flaskAPIbk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/gradient_boosting_final_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgriML/gradient_boosting_final_model.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/gradient_boosting_model.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/gradient_boosting_predicted_final_results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgriML/gradient_boosting_predicted_final_results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/gradient_boosting_results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/gradient_boosting_results_full.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/hello_world.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/raw_dir/Nairobi_Final_Sukuma_Wiki.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/raw_dir/Sukuma_Wiki_Counties_Cumulative-Bkp_20180729.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/raw_dir/Sukuma_Wiki_Counties_Cumulative.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgriML/raw_dir/Sukuma_Wiki_Counties_Cumulative.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/raw_dir/Sukuma_Wiki_Counties_Cumulative_Bkp_20180810.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/raw_dir/Sukuma_Wiki_Counties_Cumulative_Bkp_20180812.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/raw_dir/Sukuma_Wiki_Cumulative_Predict-Bkp_20180729.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/raw_dir/Sukuma_Wiki_Cumulative_Predict.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgriML/raw_dir/Sukuma_Wiki_Cumulative_Predict.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/raw_dir/Sukuma_Wiki_Nairobi_Predict.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/upload_dir/Sukuma_Wiki_Counties_Cumulative.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgriML/upload_dir/Sukuma_Wiki_Counties_Cumulative.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmartAgriML/upload_dir/Sukuma_Wiki_Cumulative_Predict.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../SmartAgriML/upload_dir/Sukuma_Wiki_Cumulative_Predict.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartagriAPI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../smartagriAPI/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/smartagri/SmartagriApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/smartagri/controller/FuturePredictionsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/controller/FuturePredictionsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/smartagri/controller/PredictionsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/controller/PredictionsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/smartagri/controller/RawsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/controller/RawsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/smartagri/model/FuturePredictions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/model/FuturePredictions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/smartagri/model/Predictions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/model/Predictions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/smartagri/model/Raws.java" beforeDir="false" afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/model/Raws.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/smartagri/repository/FuturePredictionsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/repository/FuturePredictionsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/smartagri/repository/PredictionsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/repository/PredictionsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/smartagri/repository/RawsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/java/com/smartagri/repository/RawsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartagriAPI/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../smartagriAPI/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartagriAPI/src/test/java/com/smartagri/smartagri/SmartagriApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../smartagriAPI/src/test/java/com/smartagri/SmartagriApplicationTests.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/amudabadmus/awfa/AppImageTextExtractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amudabadmus/awfa/AppImageTextExtractor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="342" />
+    <option name="y" value="-13" />
+    <option name="width" value="1341" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="ImagePDFToCSV" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ImagePDFToCSV" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="ImagePDFToCSV" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ImagePDFToCSV" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ImagePDFToCSV" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ImagePDFToCSV" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ImagePDFToCSV" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ImagePDFToCSV" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ImagePDFToCSV" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ImagePDFToCSV" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ImagePDFToCSV" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ImagePDFToCSV" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="amudabadmus" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ImagePDFToCSV" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ImagePDFToCSV" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="amudabadmus" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="awfa" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ImagePDFToCSV" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ImagePDFToCSV" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="tessdata" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ImagePDFToCSV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578560745048" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\odhiambod\SmartAgri\ImagePDFToCSV" />
+      <recent name="C:\Users\odhiambod\SmartAgri\ImagePDFToCSV\tessdata" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppImageTextExtractor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amudabadmus.awfa.AppImageTextExtractor" />
+      <module name="ImagePDFToCSV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amudabadmus.awfa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppImageTextExtractor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44212873-dc2c-41d4-a5ad-c13c49b33551" name="Default Changelist" comment="" />
+      <created>1578490239377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578490239377</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="DB Browser" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="simpleUML" />
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="PlantUML" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="UML design tool window" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amudabadmus/awfa/AppImageTextExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

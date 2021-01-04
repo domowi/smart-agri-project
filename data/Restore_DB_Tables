@@ -1,0 +1,3 @@
+-- Restore .sql dump
+log into psql
+ \i 'C:/Users/odhiambod/Documents/Dom/SMART_AGRI/PostgresqlDumps/smart_agri_20200423_data.sql'
