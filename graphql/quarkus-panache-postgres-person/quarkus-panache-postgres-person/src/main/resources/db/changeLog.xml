@@ -1,0 +1,50 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+                   xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog-ext
+    http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd
+    http://www.liquibase.org/xml/ns/dbchangelog
+    http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
+
+    <changeSet author="nafisproject" id="1">
+        <createTable tableName="nafis_example">
+            <column name="id" type="INT(11) UNSIGNED">
+                <constraints nullable="false" primaryKey="true"/>
+            </column>
+            <column name="rowno" type="INT(11)"/>
+            <column name="variety" type="VARCHAR(60)"/>
+            <column name="commodity" type="VARCHAR(120)"/>
+            <column name="unit" type="VARCHAR(25)"/>
+            <column name="kg" type="VARCHAR(60)"/>
+            <column name="code" type="SMALLINT(3)"/>
+            <column name="nairobi" type="VARCHAR(25)"/>
+            <column name="mombasa" type="VARCHAR(25)"/>
+            <column name="kisumu" type="VARCHAR(25)"/>
+            <column name="nakuru" type="varchar(25)"/>
+            <column name="kisii" type="varchar(25)"/>
+            <column name="eldoret" type="varchar(25)"/>
+            <column name="busia" type="varchar(25)"/>
+            <column name="kitale" type="varchar(25)"/>
+            <column name="isiolo" type="varchar(25)"/>
+            <column name="loitktk" type="varchar(25)"/>
+            <column name="malindi" type="varchar(25)"/>
+            <column name="kakamega" type="varchar(25)"/>
+            <column name="kitui" type="varchar(25)"/>
+            <column name="wajir" type="varchar(25)"/>
+            <column name="imenti" type="varchar(25)"/>
+            <column name="machakos" type="varchar(25)"/>
+            <column name="chwele" type="varchar(25)"/>
+            <column name="taveta" type="varchar(25)"/>
+            <column name="karatina" type="varchar(25)"/>
+            <column name="nyahururu" type="varchar(25)"/>
+            <column name="garissa" type="varchar(25)"/>
+            <column name="average" type="double"/>
+            <column name="max" type="int(11)"/>
+            <column name="min" type="int(11)"/>
+            <column name="price_date" type="varchar(25)"/>
+            <column name="date" type="TIMESTAMP WITHOUT TIME ZONE"/>
+        </createTable>
+    </changeSet>
+
+</databaseChangeLog>
