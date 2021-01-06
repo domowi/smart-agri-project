@@ -10,10 +10,23 @@ services:
             - POSTGRES_USER=airflow
             - POSTGRES_PASSWORD=airflow
             - POSTGRES_DB=airflow
-        # Uncomment these lines to persist data on the local filesystem.
-             - PGDATA=/var/lib/postgresql/data/pgdata
+            - PGDATA=/var/lib/postgresql/data/pgdata
         volumes:
-             - ./pgdata:/var/lib/postgresql/data/pgdata
+            - ./pgdata:/var/lib/postgresql/data/pgdata
+        # Uncomment these lines to persist data on the local filesystem.
+        #     - PGDATA=/var/lib/postgresql/data/pgdata
+        # volumes:
+        #     - ./pgdata:/var/lib/postgresql/data/pgdata
+
+    adminer:
+        image: adminer
+        restart: always
+        depends_on:
+            - postgres
+        ports:
+            - 8088:8080
+            # https://www.dabbleofdevops.com/blog/apache-airflow-tutorial-part-2-install-with-docker
+            # https://www.dabbleofdevops.com/blog/apache-airflow-tutorial-part-2-install-with-docker
 
     webserver:
         image: puckel/docker-airflow:1.10.4
@@ -70,7 +83,7 @@ services:
             # - POSTGRES_USER=airflow
             # - POSTGRES_PASSWORD=airflow
             # - POSTGRES_DB=airflow
-            # - REDIS_PASSWORD=redispass
+            # - REDIS_PASSWORD=redispass 
         command: scheduler
 
     worker:
